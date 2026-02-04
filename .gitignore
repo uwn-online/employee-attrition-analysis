@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+.ipynb_checkpoints/
+
+# Data (optional – depends on dataset size/sensitivity)
+data/raw/
