@@ -1,7 +1,7 @@
 # Employee Attrition Analysis
 
 ## Overview
-This project analyses structured workforce data and unstructured employee reviews to identify actionable drivers of operational friction within a warehouse fulfilment centre. Using NLP, sentiment analysis, and segment prioritisation, the analysis identifies high-leverage intervention areas within HR’s operational scope.
+This project analyses structured workforce data and unstructured employee reviews to identify actionable drivers of operational friction within a warehouse fulfilment centre. Using NLP, sentiment analysis, and segment prioritisation, the analysis identifies high-leverage intervention areas within business case operational scope.
 
 ## Business Questions
 Warehouse performance depends on workforce stability and predictable operations.
@@ -14,7 +14,7 @@ This analysis aims to:
 
 - Prioritise interventions based on impact, severity, and size
 
-## Dataset
+## Data source
 - 300 employee reviews
 - Structured data: role, tenure, employment status, ratings
 - Unstructured text: review summaries and employee advice
@@ -47,20 +47,24 @@ This analysis aims to:
 
 ## Key Findings
 - Burnout is visible but partially tolerated.
+
 High mention volume but mixed sentiment suggests workload intensity is broadly accepted when supported.
 
 - Operational Instability shows persistent dissatisfaction.
+
 Unlike burnout, instability lacks a strong positive offset and appears as recurring friction.
 
 - Promotion & Progression concerns carry concentrated negative sentiment.
+
 Lower volume but sharper emotional intensity suggests fairness dissatisfaction.
 
 - Risk is concentrated in Regular Forklift Operators.
+
 When weighted by impact, severity, and size, this segment ranks highest.
 
 ## Priority Segment
 
-- Regular Forklift Operators
+### Regular Forklift Operators
 
 - Operationally critical role
 
