@@ -46,21 +46,21 @@ This analysis aims to:
 - Priority model: Impact × Severity × Size
 
 ## Key Findings
-- Burnout is visible but partially tolerated.
+Burnout is visible but partially tolerated
 
-High mention volume but mixed sentiment suggests workload intensity is broadly accepted when supported.
+- High mention volume but mixed sentiment suggests workload intensity is broadly accepted when supported.
 
-- Operational Instability shows persistent dissatisfaction.
+Operational Instability shows persistent dissatisfaction.
 
-Unlike burnout, instability lacks a strong positive offset and appears as recurring friction.
+- Unlike burnout, instability lacks a strong positive offset and appears as recurring friction.
 
-- Promotion & Progression concerns carry concentrated negative sentiment.
+Promotion & Progression concerns carry concentrated negative sentiment.
 
-Lower volume but sharper emotional intensity suggests fairness dissatisfaction.
+- Lower volume but sharper emotional intensity suggests fairness dissatisfaction.
 
-- Risk is concentrated in Regular Forklift Operators.
+Risk is concentrated in Regular Forklift Operators.
 
-When weighted by impact, severity, and size, this segment ranks highest.
+- When weighted by impact, severity, and size, this segment ranks highest.
 
 ## Priority Segment
 
