@@ -5,6 +5,7 @@ This project analyses structured workforce data and unstructured employee review
 
 ## Business Questions
 Warehouse performance depends on workforce stability and predictable operations.
+
 This analysis aims to:
 
 - Identify the most significant friction themes
@@ -20,7 +21,7 @@ This analysis aims to:
 - Regional warehouse locations
 
 ## Approach
-1. Exploratory Analysis
+### 1. Exploratory Analysis
 
 - Workforce distribution
 
@@ -28,7 +29,7 @@ This analysis aims to:
 
 - Sentiment distribution
 
-2. NLP & Thematic Analysis
+### 2. NLP & Thematic Analysis
 
 - Text cleaning and tokenisation
 
@@ -38,7 +39,7 @@ This analysis aims to:
 
 - Sentiment scoring (TextBlob)
 
-3. Segmentation & Prioritisation
+### 3. Segmentation & Prioritisation
 
 - Segment × theme heatmap
 
@@ -104,11 +105,15 @@ Introducing a Fixed-Rota Stability Window with change transparency may reduce sc
 - Predictability pulse check
 
 ## Tools
-Python (Pandas, NLTK, TextBlob)
-Matplotlib / Seaborn
-NLP preprocessing & thematic modelling
-Sentiment analysis
-Custom severity scoring
+- Python (Pandas, NLTK, TextBlob)
+
+- Matplotlib / Seaborn
+
+- NLP preprocessing & thematic modelling
+
+- Sentiment analysis
+
+- Custom severity scoring
 
 ## How to Run
 ```bash
